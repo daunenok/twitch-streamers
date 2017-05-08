@@ -1,0 +1,14 @@
+h1 {
+	margin-bottom: 50px;
+}
+.jumbotron {
+	max-width: 700px;
+	margin: 0 auto;
+}
+.modal {
+	top: 10%;
+	text-transform: capitalize;
+}
+.modal-body img {
+	width: 50px;
+}
